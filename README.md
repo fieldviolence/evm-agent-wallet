@@ -4,7 +4,7 @@ A lightweight EVM wallet CLI for agents and developers. Manage wallets, check ba
 
 > **Are you an agent?** Skip the README — get set up in one shot:
 > ```
-> curl -s https://raw.githubusercontent.com/fieldviolence/evm-agent-wallet/main/AGENT.md
+> curl -s https://raw.githubusercontent.com/fieldviolence/evm-agent-wallet/refs/heads/main/AGENT.md
 > ```
 
 ## Installation
