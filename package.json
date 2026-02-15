@@ -1,0 +1,19 @@
+{
+  "name": "evm-agent-wallet",
+  "version": "0.1.0",
+  "type": "module",
+  "main": "src/index.ts",
+  "types": "src/index.ts",
+  "bin": {
+    "wallet": "src/cli.ts"
+  },
+  "scripts": {
+    "test": "bun test"
+  },
+  "dependencies": {
+    "viem": "^2.23.2"
+  },
+  "devDependencies": {
+    "@types/bun": "latest"
+  }
+}
