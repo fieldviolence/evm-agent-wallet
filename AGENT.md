@@ -14,10 +14,10 @@ Or clone and install locally:
 
 ```bash
 git clone https://github.com/<user>/evm-agent-wallet.git
-cd evm-agent-wallet && bun install
+cd evm-agent-wallet && bun install && bun link
 ```
 
-The CLI binary is called `wallet`.
+This registers the `wallet` CLI globally so you can run `wallet` commands from anywhere.
 
 ## Commands
 
